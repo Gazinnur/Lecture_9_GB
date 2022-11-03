@@ -1,0 +1,15 @@
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.csproj.AssemblyReference.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.AssemblyInfoInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.AssemblyInfo.cs
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.csproj.CoreCompileInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\bin\Debug\net6.0\Exp002_changeText.exe
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\bin\Debug\net6.0\Exp002_changeText.deps.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\bin\Debug\net6.0\Exp002_changeText.runtimeconfig.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\bin\Debug\net6.0\Exp002_changeText.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\bin\Debug\net6.0\Exp002_changeText.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\refint\Exp002_changeText.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\Exp002_changeText.genruntimeconfig.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp002_changeText\obj\Debug\net6.0\ref\Exp002_changeText.dll
