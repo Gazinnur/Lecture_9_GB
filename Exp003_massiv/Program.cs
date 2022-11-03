@@ -28,7 +28,23 @@ void SelectionSort(int[] Arr)
     }
 }
 
+void SelectionSortmax(int[] Arr)
+{
+    for (int i = 0; i < Arr.Length - 1; i++)
+    {
+        int maxPosition = i;
+        for (int j = i + 1; j < Arr.Length; j++)
+        {
+            if (Arr[j] > Arr[maxPosition]) maxPosition = j;
+        }
+        int temPorary = Arr[i];
+        Arr[i] = Arr[maxPosition];
+        Arr[maxPosition] = temPorary;
+    }
+}
 PrintText(Text);
 SelectionSort(Text);
+PrintText(Text);
 
+SelectionSortmax(Text);
 PrintText(Text);
