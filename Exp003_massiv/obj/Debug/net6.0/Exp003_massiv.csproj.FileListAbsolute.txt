@@ -1,0 +1,15 @@
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\bin\Debug\net6.0\Exp003_massiv.exe
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\bin\Debug\net6.0\Exp003_massiv.deps.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\bin\Debug\net6.0\Exp003_massiv.runtimeconfig.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\bin\Debug\net6.0\Exp003_massiv.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\bin\Debug\net6.0\Exp003_massiv.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.csproj.AssemblyReference.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.AssemblyInfoInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.AssemblyInfo.cs
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.csproj.CoreCompileInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\refint\Exp003_massiv.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\Exp003_massiv.genruntimeconfig.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Lecture9\Exp003_massiv\obj\Debug\net6.0\ref\Exp003_massiv.dll
